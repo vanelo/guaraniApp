@@ -1,8 +1,8 @@
 GuaraniApp
 ===================================
 
-This app is based on Miwok App. Used in a Udacity course in the Beginning Android Nanodegree.
-This displays lists of vocabulary words for the user to learn the Guarani language.
+This app is based on Miwok App. Miwok is used in a Udacity course in the Beginning Android Nanodegree.
+This app displays lists of vocabulary words for the user to learn the Guarani language.
 
 Pre-requisites
 --------------
